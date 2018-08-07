@@ -1,0 +1,11 @@
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\bin\Debug\netcoreapp2.0\AssignmentAPI.deps.json
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\bin\Debug\netcoreapp2.0\AssignmentAPI.runtimeconfig.json
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\bin\Debug\netcoreapp2.0\AssignmentAPI.runtimeconfig.dev.json
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\bin\Debug\netcoreapp2.0\AssignmentAPI.dll
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\bin\Debug\netcoreapp2.0\AssignmentAPI.pdb
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\obj\Debug\netcoreapp2.0\AssignmentAPI.csprojAssemblyReference.cache
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\obj\Debug\netcoreapp2.0\AssignmentAPI.csproj.CoreCompileInputs.cache
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\obj\Debug\netcoreapp2.0\AssignmentAPI.AssemblyInfoInputs.cache
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\obj\Debug\netcoreapp2.0\AssignmentAPI.AssemblyInfo.cs
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\obj\Debug\netcoreapp2.0\AssignmentAPI.dll
+C:\Users\satpals\source\repos\AssignmentAPI\AssignmentAPI\obj\Debug\netcoreapp2.0\AssignmentAPI.pdb
